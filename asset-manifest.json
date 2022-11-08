@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CinemaProject/static/css/main.7ba661b7.css",
+    "main.js": "/CinemaProject/static/js/main.c1c311cd.js",
+    "static/js/787.0fe84981.chunk.js": "/CinemaProject/static/js/787.0fe84981.chunk.js",
+    "static/media/fa-solid-900.ttf": "/CinemaProject/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
+    "static/media/fa-brands-400.ttf": "/CinemaProject/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
+    "static/media/fa-solid-900.woff2": "/CinemaProject/static/media/fa-solid-900.66104b766c3d0462b3c5.woff2",
+    "static/media/fa-brands-400.woff2": "/CinemaProject/static/media/fa-brands-400.e1a247a5ef41e1975742.woff2",
+    "static/media/fa-regular-400.ttf": "/CinemaProject/static/media/fa-regular-400.abf801b7acb6705a15ad.ttf",
+    "static/media/6M513.png": "/CinemaProject/static/media/6M513.c0bc7d0b97fa8387bee7.png",
+    "static/media/fa-regular-400.woff2": "/CinemaProject/static/media/fa-regular-400.639d2000c1ece92eaec8.woff2",
+    "static/media/fa-v4compatibility.ttf": "/CinemaProject/static/media/fa-v4compatibility.f601162ae669f88823a3.ttf",
+    "static/media/fa-v4compatibility.woff2": "/CinemaProject/static/media/fa-v4compatibility.745989aab0d69cab7e70.woff2",
+    "static/media/logo.svg": "/CinemaProject/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CinemaProject/index.html",
+    "main.7ba661b7.css.map": "/CinemaProject/static/css/main.7ba661b7.css.map",
+    "main.c1c311cd.js.map": "/CinemaProject/static/js/main.c1c311cd.js.map",
+    "787.0fe84981.chunk.js.map": "/CinemaProject/static/js/787.0fe84981.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ba661b7.css",
+    "static/js/main.c1c311cd.js"
+  ]
+}
